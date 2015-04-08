@@ -57,5 +57,7 @@ You should be able to get some beeps out of the device with:
 * Find the MAC for your device with `$ hcitool lescan`
 * Edit proximo.py and modify the MAC setting to the one of your device.
 
-    $ python proximo.py set
-    $ python proximo.py play
+```
+$ python proximo.py set
+$ python proximo.py play
+```
